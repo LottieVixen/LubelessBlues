@@ -4,6 +4,8 @@ Date: 25. 10. 2023
   Minor Features:
     - Updated factorio version required
     - Removed extra E from recipe in description
+    - Fixed typo in description of info.json
+    - Added a thumbnail
 
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0

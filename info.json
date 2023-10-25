@@ -7,5 +7,5 @@
 	"homepage": "",
 	"factorio_version": "1.1",
 	"dependencies": ["base >= 1.1"],
-	"descripition": "Modifies the recipe for crafting express transport items without lube!"
+	"description": "Modifies the recipe for crafting express transport items without lube!"
 }
