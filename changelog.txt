@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 25. 10. 2023
+  Minor Features:
+    - Updated factorio version required
+    - Removed extra E from recipe in description
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 05. 07. 2017
+  Major Features:
+    - Initial release
